@@ -2,7 +2,7 @@
 
 I have put together a number of curated resources related to implementation of AI.
 
-#Sub-Folders
+# Sub-Folders
 
 ## LLM Probe
 This project applies the taxonmy of social engineering tactics used by security operations and red team to test whether a conversational LLM acting as a customer support agent respects simple operational rules under adversarial prompting.
@@ -19,7 +19,7 @@ This project applies the taxonmy of social engineering tactics used by security 
 - Constrains the model with a system instructionrepresenting simple customer-support rules.
 - Log raw model responses for manual review.
 
-### Commans used
+### Commands used
 
 ``` pip install google-genai ```
 ``` export GEMINI_API_KEYv= "API-Key" ```
