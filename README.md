@@ -21,9 +21,12 @@ This project applies the taxonmy of social engineering tactics used by security 
 
 ### Commands used
 
-``` pip install google-genai ```
-``` export GEMINI_API_KEYv= "API-Key" ```
-``` python LLM_Probe/run_eval.py ```
+``` 	
+pip install google-genai
+export GEMINI_API_KEY= "API-Key"
+python LLM_Probe/run_eval.py 
+
+```
 
 # Stack
 
